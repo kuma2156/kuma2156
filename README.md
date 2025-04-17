@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Just%20Fighting!%&fontSize=50&fontColor=ffffff&animation=wave)
 
-<h1 align="center">👋 안녕하세요! 김명규입니다 :)</h1>
 <p align="center">꿈을 향해 한 걸음씩 나아가는 예비 개발자</p>
 
 ---

@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=김명규%20개발자&fontSize=50&fontColor=ffffff&animation=wave)
 
 <h1 align="center">👋 안녕하세요! 김명규입니다 :)</h1>
 <p align="center">꿈을 향해 한 걸음씩 나아가는 예비 개발자</p>

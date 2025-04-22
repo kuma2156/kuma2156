@@ -97,7 +97,7 @@
 
 ---
 
-### 🖥️ JSP__LAB
+### ☕ JSP__LAB
 <details>
   <summary><b>JSP 실습 프로젝트</b></summary>
   <ul>

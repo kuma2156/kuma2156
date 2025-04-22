@@ -95,7 +95,7 @@
   <ul>
     <li>Java 프로그래밍을 통한 문제 풀이 및 실습 , 알고리즘 구현</li>
   </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/JSP__LAB)
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/JSP__LAB) \n
   🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/korit_4_java)
 </details>
 

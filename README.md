@@ -46,69 +46,81 @@
 
 ---
 
-
 ## 📌 Pinned Projects
 
 ### ☕ korit_4_java
-> 자바 학습용 실습 리포지토리
-
-- 자바 기초부터 객체지향 개념까지
-- 다양한 예제와 문제 풀이
-- 콘솔 기반 자바 프로젝트
-
-🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/korit_4_java)
+<details>
+  <summary><b>자바 학습용 실습 리포지토리</b></summary>
+  <ul>
+    <li>자바 기초부터 객체지향 개념까지</li>
+    <li>다양한 예제와 문제 풀이</li>
+    <li>콘솔 기반 자바 프로젝트</li>
+  </ul>
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/korit_4_java)
+</details>
 
 ---
 
-### 🧑‍💻 Portfolio 
-> 개인 포트폴리오 프로젝트
-
-- 프로젝트 소개 및 자신을 홍보하는 웹사이트
-- 사용 기술: HTML, CSS, JavaScript
-
-🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Portfolio)
+### 🧑‍💻 Portfolio
+<details>
+  <summary><b>개인 포트폴리오 프로젝트</b></summary>
+  <ul>
+    <li>프로젝트 소개 및 자신을 홍보하는 웹사이트</li>
+    <li>사용 기술: HTML, CSS, JavaScript</li>
+  </ul>
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Portfolio)
+</details>
 
 ---
 
 ### 🗺️ IoT_FlowMap__PROJECT
-> IoT 기반 프로젝트: 흐름 맵을 통한 시각화
-
-- IoT 장치 데이터를 흐름 맵으로 시각화한 프로젝트
-- 실시간 데이터 분석 및 시각화
-
-🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/IoT_FlowMap_PROJECT)
+<details>
+  <summary><b>IoT 기반 프로젝트: 흐름 맵을 통한 시각화</b></summary>
+  <ul>
+    <li>IoT 장치 데이터를 흐름 맵으로 시각화한 프로젝트</li>
+    <li>실시간 데이터 분석 및 시각화</li>
+  </ul>
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/IoT_FlowMap_PROJECT)
+</details>
 
 ---
 
 ### 🍔 FoodPricePredict__PROJECT
-> 머신러닝을 활용한 음식 가격 예측 프로젝트
-
-- 음식 가격 예측을 위한 데이터 분석 및 모델 학습
-- 사용 기술: Python, Pandas, Scikit-learn
-
-🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/FoodPricePredict_PROJECT)
+<details>
+  <summary><b>머신러닝을 활용한 음식 가격 예측 프로젝트</b></summary>
+  <ul>
+    <li>음식 가격 예측을 위한 데이터 분석 및 모델 학습</li>
+    <li>사용 기술: Python, Pandas, Scikit-learn</li>
+  </ul>
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/FoodPricePredict_PROJECT)
+</details>
 
 ---
 
 ### 🖥️ JSP__LAB
-> JSP 실습 프로젝트
-
-- JSP 기초부터 실습을 통해 학습한 프로젝트
-- 웹 게시판, 로그인 시스템 등 구현
-
-🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/JSP_LAB)
+<details>
+  <summary><b>JSP 실습 프로젝트</b></summary>
+  <ul>
+    <li>JSP 기초부터 실습을 통해 학습한 프로젝트</li>
+    <li>웹 게시판, 로그인 시스템 등 구현</li>
+  </ul>
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/JSP_LAB)
+</details>
 
 ---
 
 ### 🐍 Python__LAB
-> 파이썬 실습 프로젝트
-
-- 파이썬을 이용한 다양한 문제 풀이 및 알고리즘 구현
-- 미니 게임, 데이터 처리 등 포함
-
-🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Python_LAB)
+<details>
+  <summary><b>파이썬 실습 프로젝트</b></summary>
+  <ul>
+    <li>파이썬을 이용한 다양한 문제 풀이 및 알고리즘 구현</li>
+    <li>미니 게임, 데이터 처리 등 포함</li>
+  </ul>
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Python_LAB)
+</details>
 
 ---
+
 
 ## 🔗 Contact
 

@@ -5,6 +5,12 @@
 ---
 
 ## 🔧 Skills
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 - 💻 Languages: `Python`, `Java`, `HTML`, `CSS`, `JavaScript`
 - 🧰 Tools: `Git`, `MySQL`, `Oracle`, `MongoDB`
@@ -56,8 +62,7 @@
 ## 📚 공부하고 있어요!
 
 <details>
-  <summary><b>![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
- Java , JSP</b></summary>
+  <summary><b>☕ Java , JSP</b></summary>
   <ul>
     <li>Java 프로그래밍을 통한 문제 풀이 및 실습 , 알고리즘 구현</li>
     <li>웹 게시판, 로그인 시스템 등 구현</li>

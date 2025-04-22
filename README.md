@@ -15,18 +15,7 @@
 
 ## 📌 주요 프로젝트
 
-### ☕ korit_4_java
-<details>
-  <summary><b>자바 학습용 실습 리포지토리</b></summary>
-  <ul>
-    <li>자바 기초부터 객체지향 개념까지</li>
-    <li>다양한 예제와 문제 풀이</li>
-    <li>콘솔 기반 자바 프로젝트</li>
-  </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/korit_4_java)
-</details>
 
----
 
 ### 🧑‍💻 Portfolio
 <details>
@@ -60,6 +49,18 @@
     <li>사용 기술: Python, Pandas, Scikit-learn</li>
   </ul>
   🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/FoodPricePredict__PROJECT)
+</details>
+
+---
+### ☕ korit_4_java
+<details>
+  <summary><b>자바 학습용 실습 리포지토리</b></summary>
+  <ul>
+    <li>자바 기초부터 객체지향 개념까지</li>
+    <li>다양한 예제와 문제 풀이</li>
+    <li>콘솔 기반 자바 프로젝트</li>
+  </ul>
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/korit_4_java)
 </details>
 
 ---

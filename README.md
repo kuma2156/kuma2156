@@ -65,38 +65,30 @@
 
 ---
 
-### ☕ JSP__LAB
-<details>
-  <summary><b>JSP 실습 프로젝트</b></summary>
-  <ul>
-    <li>JSP 기초부터 실습을 통해 학습한 프로젝트</li>
-    <li>웹 게시판, 로그인 시스템 등 구현</li>
-  </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/JSP__LAB)
-</details>
 
----
-
-### 🐍 Python__LAB
-<details>
-  <summary><b>파이썬 실습 프로젝트</b></summary>
-  <ul>
-    <li>파이썬을 이용한 다양한 문제 풀이 및 알고리즘 구현</li>
-  </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Python__LAB)
-</details>
-
----
 
 ## 📚 공부하고 있어요!
 
 <details>
-  <summary><b>Java , JSP</b></summary>
+  <summary><b>☕ Java , JSP</b></summary>
   <ul>
     <li>Java 프로그래밍을 통한 문제 풀이 및 실습 , 알고리즘 구현</li>
+    <li>웹 게시판, 로그인 시스템 등 구현</li>
   </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/JSP__LAB) \n
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/korit_4_java)
+  <li>
+      🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/JSP__LAB) 
+  </li>
+  <li>
+      🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/korit_4_java)
+  </li>
+</details>
+
+<details>
+  <summary><b> 🐍 Python</b></summary>
+  <ul>
+    <li>파이썬을 이용한 다양한 문제 풀이 및 알고리즘 구현</li>
+  </ul>
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Python__LAB)
 </details>
 
 ---

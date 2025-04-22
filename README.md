@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Just%20Fighting!%&fontSize=50&fontColor=0080FF&animation=wave)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=200&section=header&text=Just%20Fighting!%&fontSize=50&fontColor=FFFFFF&animation=wave)
 
 <p align="center">꿈을 향해 한 걸음씩 나아가는 예비 개발자</p>
 

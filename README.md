@@ -50,7 +50,6 @@
 
 - ✉️ Email: `kuma2156@naver.com`
 - 💼 Notion(이력서): [바로가기](https://your-notion-link)
-- 🧠 Blog: [https://velog.io/@myungkyu](https://velog.io/@myungkyu) (예시)
 
 ---
 

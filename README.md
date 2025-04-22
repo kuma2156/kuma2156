@@ -61,6 +61,7 @@
   </ul>
   🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/FoodPricePredict__PROJECT)
 </details>
+
 ---
 
 ### ☕ JSP__LAB

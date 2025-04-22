@@ -52,20 +52,6 @@
 </details>
 
 ---
-### ☕ korit_4_java
-<details>
-  <summary><b>자바 학습용 실습 리포지토리</b></summary>
-  <ul>
-    <li>자바 기초부터 객체지향 개념까지</li>
-    <li>다양한 예제와 문제 풀이</li>
-    <li>콘솔 기반 자바 프로젝트</li>
-  </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/korit_4_java)
-</details>
-
----
-
-
 
 ## 📚 공부하고 있어요!
 
@@ -89,6 +75,14 @@
     <li>파이썬을 이용한 다양한 문제 풀이 및 알고리즘 구현</li>
   </ul>
   🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Python__LAB)
+</details>
+
+<details>
+  <summary><b> 🗄️ DB</b></summary>
+  <ul>
+    <li>MySQL 이용한 실습 및 데이터베이스 구현</li>
+  </ul>
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/DB__LAB)
 </details>
 
 ---

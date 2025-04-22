@@ -56,7 +56,8 @@
 ## 📚 공부하고 있어요!
 
 <details>
-  <summary><b>☕ Java , JSP</b></summary>
+  <summary><b>![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+ Java , JSP</b></summary>
   <ul>
     <li>Java 프로그래밍을 통한 문제 풀이 및 실습 , 알고리즘 구현</li>
     <li>웹 게시판, 로그인 시스템 등 구현</li>

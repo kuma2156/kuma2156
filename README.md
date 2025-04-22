@@ -46,6 +46,19 @@
 
 ---
 
+
+## 📌 Pinned Projects
+
+### ☕ korit_4_java
+> 자바 학습용 실습 리포지토리
+
+- 자바 기초부터 객체지향 개념까지
+- 다양한 예제와 문제 풀이
+- 콘솔 기반 자바 프로젝트
+
+🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/korit_4_java)
+
+
 ## 🔗 Contact
 
 - ✉️ Email: `kuma2156@naver.com`

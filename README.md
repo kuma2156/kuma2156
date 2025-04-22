@@ -80,7 +80,7 @@
     <li>IoT 장치 데이터를 흐름 맵으로 시각화한 프로젝트</li>
     <li>실시간 데이터 분석 및 시각화</li>
   </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/IoT_FlowMap_PROJECT)
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/IoT_FlowMap__PROJECT)
 </details>
 
 ---
@@ -92,7 +92,7 @@
     <li>음식 가격 예측을 위한 데이터 분석 및 모델 학습</li>
     <li>사용 기술: Python, Pandas, Scikit-learn</li>
   </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/FoodPricePredict_PROJECT)
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/FoodPricePredict__PROJECT)
 </details>
 
 ---
@@ -104,7 +104,7 @@
     <li>JSP 기초부터 실습을 통해 학습한 프로젝트</li>
     <li>웹 게시판, 로그인 시스템 등 구현</li>
   </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/JSP_LAB)
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/JSP__LAB)
 </details>
 
 ---
@@ -114,9 +114,8 @@
   <summary><b>파이썬 실습 프로젝트</b></summary>
   <ul>
     <li>파이썬을 이용한 다양한 문제 풀이 및 알고리즘 구현</li>
-    <li>미니 게임, 데이터 처리 등 포함</li>
   </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Python_LAB)
+  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Python__LAB)
 </details>
 
 ---

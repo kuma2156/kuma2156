@@ -58,6 +58,17 @@
 
 🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/korit_4_java)
 
+---
+
+### 🧑‍💻 Portfolio Public
+> 개인 포트폴리오 프로젝트
+
+- 프로젝트 소개 및 자신을 홍보하는 웹사이트
+- 사용 기술: HTML, CSS, JavaScript
+
+🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Portfolio)
+
+---
 
 ## 🔗 Contact
 

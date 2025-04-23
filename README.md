@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=200&section=header&text=Just%20Fighting!%&fontSize=50&fontColor=FFFFFF&animation=wave)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=200&section=header&text=꿈을%20향해%20한%20걸음씩%20나아가는%20예비%20개발자&fontSize=30&fontColor=FFFFFF&animation=wave)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+ddingyu;Full-stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
-
-<p align="center"><h3>꿈을 향해 한 걸음씩 나아가는 예비 개발자</h3></p>
 
 ---
 

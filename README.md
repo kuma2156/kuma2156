@@ -18,7 +18,7 @@
 ## 📁 포트폴리오
 ### 🧑‍💻 Portfolio
 <details>
-  <summary><b>개인 포트폴리오 프로젝트</b></summary>
+  <summary><b>개인 포트폴리오</b></summary>
   <ul>
     <li>프로젝트 소개 및 자신을 홍보하는 웹사이트</li>
     <li>사용 기술: HTML, CSS, JavaScript</li>

@@ -41,6 +41,20 @@
 </details>
 
 
+### 🎵 MusicApp__PROJECT
+<details>
+  <summary><b>안드로이드 스튜디오를 활용한 음악 앱 프로젝트</b></summary>
+  <ul>
+    <li>🎼 음악 파일 재생 및 리스트 관리 기능 구현</li>
+    <li>🎧 사용자 맞춤 재생목록 UI 구성</li>
+    <li>🎙️ 백그라운드 음악 재생 및 컨트롤 기능</li>
+    <li>💾 SQLite를 활용한 음악 정보 저장</li>
+    <li>🛠 사용 기술: Java, Android Studio, XML</li>
+  </ul>
+  🔗 <a href="https://github.com/kuma2156/MusicApp__PROJECT">GitHub Repo 바로가기</a>
+</details>
+
+
 ### 🍔 FoodPricePredict__PROJECT
 <details>
   <summary><b>머신러닝을 활용한 음식 가격 예측 프로젝트</b></summary>
@@ -50,7 +64,6 @@
   </ul>
   🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/FoodPricePredict__PROJECT)
 </details>
-
 ---
 
 ## 📚 공부하고 있어요!

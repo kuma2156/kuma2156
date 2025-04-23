@@ -118,7 +118,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myungkyu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kuma2156&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myungkyu&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuma2156&layout=compact&theme=tokyonight" />
 </p>

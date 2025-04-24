@@ -12,7 +12,7 @@
 
 
 ---
-<img src="https://img.shields.io/badge/Portfolio-RED?style=flat&logo=Portfolio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-FF0000?style=flat&logo=Portfolio&logoColor=white"/>
 ## 📁 포트폴리오
 ### 🧑‍💻 Portfolio
 <details>

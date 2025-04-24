@@ -14,7 +14,7 @@
 ---
 
 ## 📁 포트폴리오
-### <img src="https://img.shields.io/badge/Portfolio-FF0000?style=flat&logo=Portfolio&logoColor=white"/> Portfolio
+### 🧑‍💻 Portfolio
 <details>
   <summary><b>개인 포트폴리오</b></summary>
   <ul>

@@ -19,7 +19,7 @@
 ---
 
 ## 📁 포트폴리오
-### 🧑‍💻 Portfolio
+### ⚫ Portfolio
 <details>
   <summary><b>개인 포트폴리오</b></summary>
   <ul>
@@ -32,7 +32,7 @@
 ---
 ## 📌 주요 프로젝트
 
-### 🗺️ IoT_FlowMap__PROJECT
+### ⚫ IoT_FlowMap__PROJECT
 <details>
   <summary><b>IoT 기반 프로젝트: 흐름 맵을 통한 시각화</b></summary>
   <ul>
@@ -43,7 +43,7 @@
 </details>
 
 
-### 🎵 MusicApp__PROJECT
+### ⚫ MusicApp__PROJECT
 <details>
   <summary><b>안드로이드 스튜디오를 활용한 음악 앱 프로젝트</b></summary>
   <ul>
@@ -57,7 +57,7 @@
 </details>
 
 
-### 🍔 FoodPricePredict__PROJECT
+### ⚫ FoodPricePredict__PROJECT
 <details>
   <summary><b>머신러닝을 활용한 음식 가격 예측 프로젝트</b></summary>
   <ul>

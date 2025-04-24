@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hello%20World!&fontSize=40&fontColor=FFFFFF&animation=wave" />
 </p>
 
-
-
 ---
 
 ## 🔧 Skills
@@ -14,7 +12,7 @@
 
 
 ---
-
+<img src="https://img.shields.io/badge/Portfolio-RED?style=flat&logo=Portfolio&logoColor=white"/>
 ## 📁 포트폴리오
 ### 🧑‍💻 Portfolio
 <details>

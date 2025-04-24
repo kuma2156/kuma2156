@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=200&section=header&text=꿈을%20향해%20한%20걸음씩%20나아가는%20예비%20개발자&fontSize=30&fontColor=FFFFFF&animation=wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hello%20World!&fontSize=40&fontColor=FFFFFF&animation=wave" />
 </p>
+
 
 
 ---

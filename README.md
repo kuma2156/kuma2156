@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hello+World!;&repeat=true&color=FFFFFF&background=000000" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Hello+World!;&repeat=true&color=FFFFFF&background=000000"
+    style="padding: 30px 0;"
+  />
 </p>
+
 
 ---
 

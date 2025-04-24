@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Hello+World!;Welcome+to+My+Portfolio!;&repeat=true&color=FFFFFF&background=000000"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Hello+World!;&repeat=true&color=FFFFFF&background=000000"
     height="180"
 />
 </p>

@@ -69,9 +69,8 @@
 ---
 
 ## 📚 공부하고 있어요!
-
+### SQL Developer , 정보처리기사 실기
 <details>
-  SQL D , 정보처리기사 실기
   <summary><b>☕ Java , JSP</b></summary>
   <ul>
     <li>Java 프로그래밍을 통한 문제 풀이 및 실습 , 알고리즘 구현</li>

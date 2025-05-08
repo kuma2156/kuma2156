@@ -69,7 +69,7 @@
 ---
 
 ## 📚 공부하고 있어요!
-### SQL Developer , 정보처리기사 실기
+#### 📎 SQL Developer , 정보처리기사 실기
 <details>
   <summary><b>☕ Java , JSP</b></summary>
   <ul>

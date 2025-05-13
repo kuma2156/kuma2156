@@ -6,7 +6,6 @@
 </p>
 
 
----
 
 ## ✨ 목표
 
@@ -14,7 +13,6 @@
 > 실습과 프로젝트 중심의 학습  
 > 협업과 커뮤니케이션이 강한 개발자가 되는 것!
 
----
 
 ## 🔧 Skills
 | 💻 Languages | 🧰 Tools | ⚙️ Frameworks | 🕹️ Platforms |

@@ -72,7 +72,17 @@
 
 ---
 
+## 📚 Study Repositories
 
+| 프로젝트명 | 설명 | 링크 |
+|------------|------|------|
+| ⚙️ JSP__LAB | JSP를 활용한 웹 개발 실습 저장소 | 🔗 [바로가기](https://github.com/kuma2156/JSP__LAB) |
+| 💻 korit_4_java | Java 기초 및 객체지향 프로그래밍 학습 | 🔗 [바로가기](https://github.com/kuma2156/korit_4_java) |
+| 🗃️ DB__LAB | 데이터베이스 실습 및 SQL 문법 연습 | 🔗 [바로가기](https://github.com/kuma2156/DB__LAB) |
+| 🏫 gov_edu | 정부 지원 교육 과정의 Java 학습 기록 | 🔗 [바로가기](https://github.com/kuma2156/gov_edu) |
+| 🐍 Python__LAB | Python 문법 및 기초 프로젝트 실습 | 🔗 [바로가기](https://github.com/kuma2156/Python__LAB) |
+
+---
 ## 🔗 Contact
 
 - ✉️ Email: `kuma2156@naver.com`

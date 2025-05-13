@@ -36,38 +36,12 @@
 
 ## 📌 주요 프로젝트
 
-### 📡 IoT_FlowMap__PROJECT
-<details>
-  <summary><b>🌐 IoT 기반 프로젝트: 흐름 맵을 통한 시각화</b></summary>
-  <ul>
-    <li>IoT 장치 데이터를 흐름 맵으로 시각화한 프로젝트</li>
-    <li>실시간 데이터 분석 및 시각화</li>
-  </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/IoT_FlowMap__PROJECT)
-</details>
+| 프로젝트명 | 설명 | 기술 스택 | 링크 |
+|------------|------|-----------|------|
+| 📡 IoT FlowMap | IoT 장치 데이터를 흐름 맵으로 시각화 | Node.js, Socket.io, JavaScript | 🔗 [바로가기](https://github.com/kuma2156/IoT_FlowMap__PROJECT) |
+| 🎵 MusicApp | 안드로이드 음악 앱, 재생목록 및 백그라운드 재생 기능 | Java, Android Studio, SQLite | 🔗 [바로가기](https://github.com/kuma2156/MusicApp__PROJECT) |
+| 🍜 FoodPricePredict | 음식 가격 예측을 위한 머신러닝 모델 개발 | Python, Pandas, Scikit-learn | 🔗 [바로가기](https://github.com/kuma2156/FoodPricePredict__PROJECT) |
 
-### 🎵 MusicApp__PROJECT
-<details>
-  <summary><b>📱 안드로이드 스튜디오를 활용한 음악 앱 프로젝트</b></summary>
-  <ul>
-    <li>🎼 음악 파일 재생 및 리스트 관리 기능 구현</li>
-    <li>🎧 사용자 맞춤 재생목록 UI 구성</li>
-    <li>🎙️ 백그라운드 음악 재생 및 컨트롤 기능</li>
-    <li>💾 SQLite를 활용한 음악 정보 저장</li>
-    <li>🛠 사용 기술: Java, Android Studio, XML</li>
-  </ul>
-  🔗 <a href="https://github.com/kuma2156/MusicApp__PROJECT">GitHub Repo 바로가기</a>
-</details>
-
-### 🍜 FoodPricePredict__PROJECT
-<details>
-  <summary><b>📊 머신러닝을 활용한 음식 가격 예측 프로젝트</b></summary>
-  <ul>
-    <li>음식 가격 예측을 위한 데이터 분석 및 모델 학습</li>
-    <li>사용 기술: Python, Pandas, Scikit-learn</li>
-  </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/FoodPricePredict__PROJECT)
-</details>
 
 ---
 

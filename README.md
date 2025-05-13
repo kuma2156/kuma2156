@@ -21,7 +21,6 @@
 
 
 ## 📁 포트폴리오
-### ● Portfolio
 <details>
   <summary><b>개인 포트폴리오</b></summary>
   <ul>

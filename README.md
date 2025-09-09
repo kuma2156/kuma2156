@@ -33,6 +33,7 @@
 
 | 프로젝트명 | 설명 | 기술 스택 | 링크 |
 |------------|------|-----------|------|
+| 🛒 Market Project | React + Spring Boot 기반 중고거래 플랫폼 (지역 선택, 상품 등록/리뷰, 실시간 채팅 기능) | React, Spring Boot, MySQL | 🔗 [바로가기](https://github.com/KORIT-market-project/market_project) |
 | 📡 IoT FlowMap | IoT 장치 데이터를 흐름 맵으로 시각화 | Node.js, Socket.io, JavaScript | 🔗 [바로가기](https://github.com/kuma2156/IoT_FlowMap__PROJECT) |
 | 🎵 MusicApp | 안드로이드 음악 앱, 재생목록 및 백그라운드 재생 기능 | Java, Android Studio, SQLite | 🔗 [바로가기](https://github.com/kuma2156/MusicApp__PROJECT) |
 | 🍜 FoodPricePredict | 음식 가격 예측을 위한 머신러닝 모델 개발 | Python, Pandas, Scikit-learn | 🔗 [바로가기](https://github.com/kuma2156/FoodPricePredict__PROJECT) |

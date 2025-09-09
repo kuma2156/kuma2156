@@ -25,10 +25,11 @@
   <ul>
     <li>프로젝트 소개 및 자신을 홍보하는 웹사이트</li>
     <li>사용 기술: HTML, CSS, JavaScript</li>
+    <li>🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Portfolio)</li>
+    <li>🔗 [포트폴리오 바로가기](https://portfolio-liard-sigma-75.vercel.app)</li>
   </ul>
-  🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Portfolio)
-  🔗 [포트폴리오 바로가기](portfolio-liard-sigma-75.vercel.app)
 </details>
+
 
 ## 📌 주요 프로젝트
 

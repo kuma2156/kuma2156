@@ -27,6 +27,7 @@
     <li>사용 기술: HTML, CSS, JavaScript</li>
   </ul>
   🔗 [GitHub Repo 바로가기](https://github.com/kuma2156/Portfolio)
+  🔗 [포트폴리오 바로가기](portfolio-liard-sigma-75.vercel.app)
 </details>
 
 ## 📌 주요 프로젝트
